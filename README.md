@@ -1,10 +1,12 @@
 
 
-## About this repository
+## About this repository 
 This is the repository for HSBC's Data Science Bootcamp
 
 <br>
 
 ### Table of contents
 - Intro to DS
-- GIT 
+- GIT & GitHUB
+
+### Test
